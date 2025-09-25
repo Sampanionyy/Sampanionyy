@@ -1,16 +1,45 @@
-## Hi there 👋
+# Bonjour :) je suis Sampaniony
 
-<!--
-**Sampanionyy/Sampanionyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeuse web passionnée avec **3 ans d’expérience** en développement full-stack, spécialisée dans **Laravel, React et TypeScript**. Je crée des applications efficaces, robustes et centrées sur l’utilisateur.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+- **Langages & Frameworks :** PHP (Laravel 12), JavaScript, TypeScript, React 18
+- **Base de données :** PostgreSQL, MySQL
+- **Front-end :** Tailwind CSS
+- **Infrastructure :** Docker
+- **Outils & Méthodologies :** Git, Jira, Vite, UML
+- **Autres :** OAuth (Google), TensorFlow.js (prédiction de maladies), API REST, Micro-services
+
+---
+
+## Projets récents
+
+### Suivi de candidature
+- Application web pour suivre l’avancement des candidatures
+- Gestion des utilisateurs, notifications et statistiques
+- Développée avec **Laravel + React**
+
+### VirtualMed
+- Application de prédiction de maladies basée sur les symptômes
+- Implémentation avec **TensorFlow.js** pour l’analyse en temps réel
+- Interface utilisateur en **React + Tailwind CSS**
+
+### Simulation de prêt bancaire - Simulio
+- Application pour simuler des prêts bancaires et calculer les remboursements
+- Gestion des paramètres personnalisés et calcul automatique des échéances
+- Développée avec **React + TypeScript**
+
+---
+
+## Actuellement
+- Développement sur des projets collaboratifs 
+- Exploration de **logiciels sûrs** pour mon Master en Informatique
+
+---
+
+## 📫 Contact
+- [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sampaniony-rakotoarivelo-bbb7a221a/))
+- [Email](mailto:sampanionyra55@gmail.com)
