@@ -1,4 +1,4 @@
-# Bonjour :) je suis Sampaniony
+# SAMPANIONY -- vous dit Hello !
 
 Développeuse web passionnée avec **3 ans d’expérience** en développement full-stack, spécialisée dans **Laravel, React et TypeScript**. Je crée des applications efficaces, robustes et centrées sur l’utilisateur.
 
