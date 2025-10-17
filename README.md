@@ -8,13 +8,13 @@ Développeuse web passionnée avec **3 ans d’expérience** en développement f
 
 | Langages & Frameworks | Bases de données | Front-end | Infrastructure |
 |----------------------|----------------|-----------|----------------|
-| <img src="https://cdn.simpleicons.org/php/777BB4" width="24"/> PHP (Laravel 12) | <img src="https://cdn.simpleicons.org/postgresql/316192" width="24"/> PostgreSQL | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="24"/> Tailwind CSS | <img src="https://cdn.simpleicons.org/docker/2496ED" width="24"/> Docker |
-| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="24"/> JavaScript | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="24"/> MySQL | - | - |
-| <img src="https://cdn.simpleicons.org/typescript/3178C6" width="24"/> TypeScript | - | - | - |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="24"/> React 18 | - | - | - |
+| <img src="https://cdn.simpleicons.org/php/777BB4" width="24"/> PHP (Laravel 12) | <img src="https://cdn.simpleicons.org/postgresql/316192" width="18"/> PostgreSQL | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="18"/> Tailwind CSS | <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> Docker |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> MySQL | - | - |
+| <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript | - | - | - |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React 18 | - | - | - |
 
 **Autres :**  
-<img src="https://cdn.simpleicons.org/google/4285F4" width="24"/> OAuth (Google) &nbsp; | &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="24"/> TensorFlow.js &nbsp; | &nbsp; API REST & Micro-services
+<img src="https://cdn.simpleicons.org/google/4285F4" width="18"/> OAuth (Google) &nbsp; | &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> TensorFlow.js &nbsp; | &nbsp; API REST & Micro-services
 
 ---
 
