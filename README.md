@@ -6,12 +6,32 @@ Développeuse web passionnée avec **3 ans d’expérience** en développement f
 
 ## Compétences
 
-- **Langages & Frameworks :** PHP (Laravel 12), JavaScript, TypeScript, React 18
-- **Base de données :** PostgreSQL, MySQL
-- **Front-end :** Tailwind CSS
-- **Infrastructure :** Docker
-- **Outils & Méthodologies :** Git, Jira, Vite, UML
-- **Autres :** OAuth (Google), TensorFlow.js (prédiction de maladies), API REST, Micro-services
+- **Langages & Frameworks :**  
+  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="24" height="24"/> PHP (Laravel 12)  
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="24" height="24"/> JavaScript  
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="24" height="24"/> TypeScript  
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="24" height="24"/> React 18  
+
+- **Base de données :**  
+  <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" width="24" height="24"/> PostgreSQL  
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="24" height="24"/> MySQL  
+
+- **Front-end :**  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="24" height="24"/> Tailwind CSS  
+
+- **Infrastructure :**  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="24" height="24"/> Docker  
+
+- **Outils & Méthodologies :**  
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="24" height="24"/> Git  
+  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" width="24" height="24"/> Jira  
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="24" height="24"/> Vite  
+  UML  
+
+- **Autres :**  
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google OAuth" width="24" height="24"/> OAuth (Google)  
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="24" height="24"/> TensorFlow.js  
+  API REST, Micro-services
 
 ---
 
@@ -41,5 +61,5 @@ Développeuse web passionnée avec **3 ans d’expérience** en développement f
 ---
 
 ## 📫 Contact
-- [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/sampaniony-rakotoarivelo-bbb7a221a/))
+- [LinkedIn](https://www.linkedin.com/in/sampaniony-rakotoarivelo-bbb7a221a/)  
 - [Email](mailto:sampanionyra55@gmail.com)
