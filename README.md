@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est SAMPANIONY !
+# HI, moi c'est SAMPANIONY !
 
 <div align="center">
   
@@ -10,32 +10,32 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 
 ---
 
-## 🚀 Stack Technique
+## Stack Technique
 
-### 💎 Backend & Langages
+### Backend & Langages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚡ Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Bases de Données
+### Bases de Données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Outils & Infrastructure
+### Outils & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🌐 Architecture
+### Architecture
 ```
 ✓ API REST & RESTful       ✓ Micro-services
 ✓ Architecture MVC         ✓ Design Patterns
@@ -49,7 +49,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 <tr>
 <td width="50%">
 
-### 📊 Suivi de Candidatures
+### Suivi de Candidatures
 **Gestion intelligente de candidatures**
 
 🔹 Suivi en temps réel de l'avancement  
@@ -62,7 +62,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 </td>
 <td width="50%">
 
-### 🏥 VirtualMed
+### VirtualMed
 **Prédiction médicale par IA**
 
 🔹 Analyse des symptômes en temps réel  
@@ -77,7 +77,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 <tr>
 <td width="50%">
 
-### 💰 Simulio
+### Simulio
 **Simulateur de prêts bancaires**
 
 🔹 Calcul automatique des échéances  
@@ -90,13 +90,11 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 </td>
 <td width="50%">
 
-### 🚧 Autres projets
+### Autres projets
 **Portfolio en constante évolution**
 
 🔹 E-commerce avec paiement intégré  
 🔹 Dashboard d'analytics temps réel  
-🔹 API de gestion de contenu  
-🔹 Applications mobiles React Native  
 
 **À découvrir bientôt !**
 
@@ -106,7 +104,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -118,7 +116,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 
 ---
 
-## 🤝 Connectons-nous !
+## Connectons-nous !
 
 <div align="center">
 
