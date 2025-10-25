@@ -53,9 +53,8 @@ Mon terrain de jeu favori ? **Laravel**, **React** et **TypeScript** ! Mais je s
 ### Suivi de Candidatures
 **Gestion intelligente de candidatures**
 
-🔹 Suivi en temps réel de l'avancement  
-🔹 Système de notifications automatisé  
-🔹 Statistiques & analytics intégrés  
+🔹 Suivi de l'avancement des recherches
+🔹 Statistiques intégrés  
 🔹 Gestion multi-utilisateurs  
 
 **Tech:** `Laravel` `React` `PostgreSQL` `Tailwind`
