@@ -6,7 +6,8 @@
 
 </div>
 
-Développeuse web passionnée avec **3 ans d'expérience** en développement full-stack. Je transforme des idées en applications web **performantes**, **robustes** et **centrées utilisateur**. Mon terrain de jeu favori ? **Laravel**, **React** et **TypeScript** !
+Développeuse web passionnée avec **3 ans d'expérience** en développement full-stack. Je transforme des idées en applications web **performantes**, **robustes** et **centrées utilisateur**. 
+Mon terrain de jeu favori ? **Laravel**, **React** et **TypeScript** ! Mais je suis intéressée par TOUT :)
 
 ---
 
