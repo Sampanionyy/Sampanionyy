@@ -102,19 +102,6 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampaniony&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaniony&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1)
-
-</div>
-
----
 
 ## Connectons-nous !
 
@@ -130,7 +117,7 @@ Développeuse web passionnée avec **3 ans d'expérience** en développement ful
 
 <div align="center">
   
-  **💡 Toujours en apprentissage | 🚀 Passionnée par l'innovation | 💻 Code avec ❤️**
+  **💡 Toujours en apprentissage | Passionnée par l'innovation |**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sampaniony&color=6366F1&style=for-the-badge)
 
