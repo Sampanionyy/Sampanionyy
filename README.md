@@ -117,7 +117,7 @@ Mon terrain de jeu favori ? **Laravel**, **React** et **TypeScript** ! Mais je s
 
 <div align="center">
   
-  **💡 Toujours en apprentissage | Passionnée par l'innovation |**
+  **💡 Toujours en apprentissage | Passionnée par l'innovation **
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sampaniony&color=6366F1&style=for-the-badge)
 
