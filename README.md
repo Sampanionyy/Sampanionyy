@@ -57,20 +57,20 @@ Mon terrain de jeu favori ? **Laravel**, **React** et **TypeScript** ! Mais je s
 🔹 Statistiques intégrés  
 🔹 Gestion multi-utilisateurs  
 
-**Tech:** `Laravel` `React` `PostgreSQL` `Tailwind`
+**Tech:** `Laravel` `React` `MySQL` `Tailwind`
 
 </td>
 <td width="50%">
 
 ### VirtualMed
-**Prédiction médicale par IA**
+**Gestion de rendez-vous médicaux**
 
 🔹 Analyse des symptômes en temps réel  
 🔹 Machine Learning avec TensorFlow.js  
 🔹 Interface intuitive et responsive  
 🔹 Base de données médicale étendue  
 
-**Tech:** `React` `TensorFlow.js` `TypeScript` `Tailwind`
+**Tech:** `React` `TensorFlow.js` `TypeScript` `Tailwind` `Laravel`
 
 </td>
 </tr>
